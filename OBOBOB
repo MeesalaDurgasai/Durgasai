@@ -1,0 +1,50 @@
+[33mcommit 7e5c874961763ddc8f3a640d8a3c86b11ae7f26c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Durga sai <saimeesala9@gmail.com>
+Date:   Mon May 25 20:01:01 2020 +0530
+
+    Revert "stash"
+    
+    This reverts commit 141811060bce702deeaee9da0a7c378645652a16.
+
+[33mcommit 141811060bce702deeaee9da0a7c378645652a16[m[33m ([m[1;31morigin/firstbranch[m[33m, [m[1;32mfirstbranch[m[33m)[m
+Author: Durga sai <saimeesala9@gmail.com>
+Date:   Mon May 25 19:54:24 2020 +0530
+
+    stash
+
+[33mcommit 7de05996d2b4f84328c9360ee7b9e174549d3ac2[m
+Author: Durga sai <saimeesala9@gmail.com>
+Date:   Mon May 25 19:40:05 2020 +0530
+
+    branch
+
+[33mcommit 08f8a5cb1c6a8f973fe183f8266f78a03c87228c[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Durga sai <saimeesala9@gmail.com>
+Date:   Mon May 25 18:22:53 2020 +0530
+
+    fiestbranch
+
+[33mcommit 075ec7da38ec25d331fb3a27611a4d2282dfd9c4[m
+Merge: 543fee0 547ccc9
+Author: Durga sai <saimeesala9@gmail.com>
+Date:   Mon May 25 17:46:48 2020 +0530
+
+    Merge branch 'master' of https://github.com/MeesalaDurgasai/Durgasai
+
+[33mcommit 543fee0d8ff1a6206d8c0268bde79cdd343dbf1b[m
+Author: Durga sai <saimeesala9@gmail.com>
+Date:   Mon May 25 17:34:14 2020 +0530
+
+    my chage
+
+[33mcommit 547ccc9708d18603b2ea8452ae21f0e0a4ddba86[m
+Author: MeesalaDurgasai <65900241+MeesalaDurgasai@users.noreply.github.com>
+Date:   Mon May 25 16:58:49 2020 +0530
+
+    Initial commit
+
+[33mcommit f21fa56ce7c83a994d53996e94d5c1d5cb8dfef3[m
+Author: Durga sai <saimeesala9@gmail.com>
+Date:   Mon May 25 16:27:24 2020 +0530
+
+    first file
