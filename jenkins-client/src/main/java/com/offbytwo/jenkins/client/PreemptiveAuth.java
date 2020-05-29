@@ -36,7 +36,7 @@ public class PreemptiveAuth implements HttpRequestInterceptor {
                 Credentials creds = credsProvider
                         .getCredentials(new AuthScope(targetHost.getHostName(), targetHost.getPort()));
                 if (creds == null) {
-                    throw new HttpException("No credentials for preemptive authentication");
+                    throw new HttpException("No credential for preemptive authentication");
                 }
                 authState.update(authScheme, creds);
             }
