@@ -54,7 +54,7 @@
     <jenkins-version>1.644</jenkins-version>
     <junit.version>4.11</junit.version>
     <mockito-core.version>1.9.5</mockito-core.version>
-    <commons-io.version>2.4</commons-io.version>
+    <commons-io.version>2.7</commons-io.version>
     <xstream.version>1.4.7-jenkins-1</xstream.version>
     <dom4j.version>1.6.1</dom4j.version>
     <commons-lang.version>2.6</commons-lang.version>
